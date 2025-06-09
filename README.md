@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Chiranshu Jindal </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on a chatbot<br>🌱 I’m currently learning React and Javascript<br>👯 I’m looking to collaborate on Backend based projects<br>👨‍💻 All of my projects are available at GitHub<br>💬 Ask me about Java, Spring<br>📫 How to reach me chiranshujindal03@gmail.com<br>📄 Know about my experiences through my Resume<br>⚡ Fun fact I like coding
+🔭 I’m currently working on a chatbot<br>🌱 I’m currently learning React and Javascript<br>👯 I’m looking to collaborate on Backend based projects<br>👨‍💻 All of my projects are available at [GitHub](https://github.com/Chiranshu-Jindal)<br>💬 Ask me about Java, Spring<br>📫 How to reach me chiranshujindal03@gmail.com<br>📄 Know about my experiences through my [Resume]([www.linkedin.com/in/chiranshu-jindal-38815b234](https://drive.google.com/file/d/1_QgH1XqLM5E3zvU2oV5agfVO_zeOkgKq/view?usp=drive_link))<br>⚡ Fun fact I like coding
 
 
 ## 🌐 Socials:
